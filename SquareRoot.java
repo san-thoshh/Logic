@@ -72,8 +72,9 @@ public static SquareRoot{
 
 
 
-//    LONG DIVISION METHOD
-public static double ldSqrt( double number )
+	//    LONG DIVISION METHOD
+
+	public static double ldSqrt( double number )
 	{
 		if( number < 0 )
     	{
